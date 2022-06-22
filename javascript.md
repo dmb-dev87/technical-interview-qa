@@ -7822,6 +7822,8 @@
       // expected output: undefined
      ```
 
+     **[⬆ Back to Top](#table-of-contents)**
+
 ### Coding Exercise
 
 #### 1. What is the output of below code
