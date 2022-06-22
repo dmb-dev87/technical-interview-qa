@@ -2,6 +2,6 @@
 
 ### Table of Contents
 
-| No. | Questions |
+| No. | Skill Category |
 | --- | --------- |
 |1  | [React.js](reactjs.md) |
