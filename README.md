@@ -6,3 +6,4 @@
 | --- | --------- |
 |1  | [React.js](reactjs.md) |
 |2  | [JavaScript](javascript.md) |
+|3  | [Angular](angular.md) |
