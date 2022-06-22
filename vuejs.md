@@ -2531,7 +2531,7 @@
 103. ### How do you represent one way data flow in vuex?
      Vue.js has a one-way data flow model, through the props property. The same concept can be represented in vuex has below,
 
-    ![ScreenShot](images/vuejs/flow.png)
+     ![ScreenShot](images/vuejs/flow.png)
 
      **[⬆ Back to Top](#table-of-contents)**
 
@@ -3052,7 +3052,7 @@
 
      The project structure for any non-trivial application would be as below,
 
-     ![ScreenShot](images/vuejs/vuex-app-structure.png)     
+     ![ScreenShot](images/vuejs/vuex-app-structure.png)
 
      **[⬆ Back to Top](#table-of-contents)**
 
@@ -4041,18 +4041,18 @@
 
      The default preset prompt would be as below,
 
-        ![ScreenShot](images/vuejs/cli-default-presets.png)        
+        ![ScreenShot](images/vuejs/cli-default-presets.png)
 
      and the manual select features would be as below,
 
-        ![ScreenShot](images/vuejs/cli-manual-features.png)        
+        ![ScreenShot](images/vuejs/cli-manual-features.png)
 
      **[⬆ Back to Top](#table-of-contents)**
 
 185. ### How do you create project using GUI?
      You can also create and manage projects using a graphical interface with the `vue ui` command. Once you apply this command, it opens a browser window with a GUI that guides you through the project creation process.
 
-        ![ScreenShot](images/vuejs/cli-gui.png)        
+        ![ScreenShot](images/vuejs/cli-gui.png)
 
      **[⬆ Back to Top](#table-of-contents)**
 
