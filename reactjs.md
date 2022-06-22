@@ -1,8 +1,6 @@
 # React Interview Questions & Answers
 
-
 **Note:** This repository is specific to ReactJS.
-
 
 ### Table of Contents
 
